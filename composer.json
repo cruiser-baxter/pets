@@ -1,0 +1,20 @@
+{
+  "name": "czipp/328/pets",
+  "authors": [
+    {
+      "name": "Cameron Zipp",
+      "email": "czipp@mail.greenriver.edu"
+    },
+    {
+      "name": "Cruiser Baxter",
+      "email": "cbaxter4@mail.greenriver.edu"
+    },
+    {
+      "name": "Jake Gerard",
+      "email": "wgerard@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
